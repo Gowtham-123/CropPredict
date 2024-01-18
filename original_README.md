@@ -1,10 +1,10 @@
 # Experimenting with a dataset
-from your friends at Aerial Intelligence
+From your friends at Aerial Intelligence
 
 ## The goal
 We want to try and predict wheat yield for several counties in the United States. We've collected some data that should give you a good head start on the exercise.
 
-Once you've finished the exercise, we'd like you to share your insights and performance with us, and how you managed to achieve it. More on that below (in the submitting section)
+Once you've finished the exercise, we'd like you to share your insights and performance with us, and how you managed to achieve it. More on that below (in the submitting section).
 
 ## The starter data :rocket:
 - 2013: https://aerialintel.blob.core.windows.net/recruiting/datasets/wheat-2013-supervised.csv
@@ -29,9 +29,9 @@ Please create a Git repository on a hosted Git platform like GitHub, etc, and se
 
 Some things to consider for your README:
 - A brief description of the problem and how you chose to solve it.
-- A high level timeline telling us what you tried and what the results from that were
-- What your final / best approach was and how it performed
-- Technical choices you made during the project
+- A high level timeline telling us what you tried and what the results from that were.
+- What your final / best approach was and how it performed.
+- Technical choices you made during the project.
 - What challenges or compromises did you face during the project?
 - What did you learn along the way?
 - If you had more time, what would you improve?
