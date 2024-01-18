@@ -34,6 +34,6 @@ While the performance of the model appears quite good, a close inspection reveal
 
 In future iterations, these issues could be addressed by:
 
-* getting more data,
-* engineering additional and/or different features, or
-* using ensemble techniques by combining the results of different models.
+* Getting More Data.
+* Engineering additional and/or different features.
+* Using ensemble techniques by combining the results of different models.
